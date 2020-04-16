@@ -1,7 +1,7 @@
 # Machine Learning
 
 ## Sprint 1: Data analysis and supervised learning
-### Taken overzicht
+### Taken
 - hoeveel klachten zijn er over de verschillende
     - producten
     - en sub-producten
@@ -15,7 +15,7 @@
 - voorspellen van product en of issue
     - o.b.v de tekstuele beschrijving
 
-### Wat in te leveren
+### Deliverable
 - classificatie experimenten
 - data preprocessing
 - training
@@ -31,9 +31,13 @@
 - meerdere input feature/target combinations toepassen
 - ...
 
+### Retrospect
+- hyperparameter tuning ontbreekt
+- meervouden van woorden weglaten bij pre-processing
+- 
 
 ## Sprint 2: Unsupervised learning
-### Taken overzicht
+### Taken
 - clusteren van de klachten
     - geen normalisatie + resultaten
     - wel normalisatie + resultaten
