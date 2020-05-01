@@ -45,7 +45,7 @@
 
 #### Extra
 - "Kunnen we het sentiment van een klacht bepalen?"
-    - ![](https://www.datacamp.com/community/tutorials/simplifying-sentiment-analysis-python)
+    - [sentiment analysis](https://www.datacamp.com/community/tutorials/simplifying-sentiment-analysis-python)
 
     
 ### Technical implementations
