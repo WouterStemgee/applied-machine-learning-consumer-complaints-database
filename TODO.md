@@ -15,7 +15,7 @@
 
 ## Sprint 2
 ### Retrospect (sprint 1)
-- Pre-processing optimaliseren: meervouden, stamvorm en vergoegingen wegfilteren
+- Pre-processing optimaliseren: meervouden, stamvorm en vervoegingen wegfilteren
 
 ### Research Question
 - "Kunnen we de verschillende categorieën van de dataset beter gaan onderverdelen?"
