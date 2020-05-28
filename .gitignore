@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 data/complaints.csv
+data/complaint_with_location_ratio.csv
+data/complaints_with_response_ratio.csv
+data/complaints_with_sentiment_score.csv
